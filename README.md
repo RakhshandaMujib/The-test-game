@@ -4,7 +4,7 @@ No?</br>
 Here’s a recap.</br></br>
 Suppose, I’m asking: “**IS PROGRAMMING SILLY GAMES OKAY?**”</br>
 The steps to come up with an answer (just for the fun of it) are as follows:</br></br>
-•	**Step 1:** Moving from left to right, count the number of occurrences for each letter that we come across in the question. 
+•&nbsp **Step 1:** Moving from left to right, count the number of occurrences for each letter that we come across in the question. 
 So, to start with we’ll have 3 ‘I’s followed by 3 ‘S’s and so on and so forth till we cancel all the letters and get a list of numbers (the counts of each letter). </br>
 For our example we’ll have something like this:</br>
 	  I: 3, S: 3, P: 1, R: 2, O: 2, G: 3, A: 3, M: 3, N: 1, L: 2, Y: 2, E: 1, K: 1</br>
